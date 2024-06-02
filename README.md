@@ -1,4 +1,4 @@
-# Project Title: Impact of Internet Finance on China's Large Commercial Banks Performance
+# Impact of Internet Finance on China's Large Commercial Banks Performance
 
 ## Overview
 This research project investigates the influence of internet finance on the performance of China's Large Commercial Banks. It specifically examines how internet finance impacts the five major businesses of commercial banks: deposit business, loan business, intermediary business, international business, and comprehensive performance. The study also delves into the heterogeneous impacts of internet finance on different types of banks, such as city commercial banks, state-owned banks, and joint-equity banks. An important aspect of this research is the analysis of the differential impact of internet finance on bank performance before and after the COVID-19 pandemic.
